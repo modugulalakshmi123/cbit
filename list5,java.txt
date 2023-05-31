@@ -1,0 +1,9 @@
+import java.util.Set;
+public class list5{
+public Static void main(String[] args){
+set<Integer> obj=new set<Integer>();
+obj.add(10);
+obj.add(60);
+obj.add(92);
+obj.add(10);
+System.out.println(obj);

@@ -1,0 +1,20 @@
+import java.util.Scanner;
+public class sample1{
+public static void main(string args[])
+{
+Scanner sc=new Scanner(System.in);
+System.out.println("enter the year");
+int year=Sc.nextInt();
+if(year%400==0)&&(year+"is leap year")
+}
+else if(year%4)
+{
+System.out.println(year+"leap year");
+}
+else{
+System.out.println(year+"not leap year");
+}
+
+
+}
+}
